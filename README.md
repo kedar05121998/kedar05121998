@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kedar Pathak</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedar05121998&label=Profile%20views&color=0e75b6&style=flat" alt="kedar05121998" /> </p>
 
