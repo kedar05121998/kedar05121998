@@ -1,6 +1,4 @@
-![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif
-)
-
+<img height="400px" width="100%"  src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
 
 <h1 align="center">Hi 👋, I'm Kedar Pathak</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
@@ -31,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kedar05121998&show_icons=true&locale=en" alt="kedar05121998" /></p>
 </td></tr></table>
 <p><img width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=kedar05121998&" alt="kedar05121998" /></p>
+
