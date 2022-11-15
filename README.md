@@ -16,6 +16,13 @@
 
 - 📫 How to reach me **kedarpathak0873@gmail.com**
 
+<!-- Portfolio -->
+- 👨‍💻 Checkout my [Portfolio](https://kedar05121998.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+
+<!-- Resume -->
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/18hCJHp_lz8MA2m2YKv0QIZ8Hs2oGR9lz/view?usp=share_link) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kedar-pathak-583445233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedar pathak" height="30" width="40" /></a>
