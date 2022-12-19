@@ -36,8 +36,8 @@
 | ![Kedar Pathak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedar05121998&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kedar05121998&theme=tokyonight)](https://git.io/streak-stats) |
 <!-- Theme color -->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-| Top Languages | Contribution Graph  |
-| :--- | --- |
+| Top Languages |
+| :--- |
 | <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=kedar05121998&show_icons=true&theme=cobalt" alt="kedar's Language stats" /> 
 
 
