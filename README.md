@@ -38,7 +38,7 @@
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=kedar05121998&show_icons=true&theme=cobalt" alt="kedar's Language stats" /> | [![Kedar Pathak's github activity graph](https://activity-graph.herokuapp.com/graph?username=kedar05121998&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/kedar05121998/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=kedar05121998&show_icons=true&theme=cobalt" alt="kedar's Language stats" /> 
 
 
 
