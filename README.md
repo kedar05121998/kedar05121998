@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **Developing new Skills**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN Frame work**
 
-- 💬 Ask me about **JavaScript,MERN Stack**
+- 💬 Ask me about **JavaScript, HTML, CSS,React JS, Redux, Express JS, Node JS, MongoDB**
 
 - 📫 How to reach me **kedarpathak0873@gmail.com**
 
