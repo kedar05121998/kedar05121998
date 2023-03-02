@@ -1,4 +1,4 @@
-<!-- <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" > -->
+
 
 <h1 align="center">Hi 👋, I'm Kedar Pathak</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
@@ -48,4 +48,6 @@
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+
+<!-- <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" > -->
 
