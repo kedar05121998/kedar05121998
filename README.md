@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Developing new Skills**
 
-- 🌱 I’m currently learning **MERN Frame work**
+- 🌱 I’m currently learning **MERN Framework**
 
 - 💬 Ask me about **JavaScript, HTML, CSS,React JS, Redux, Express JS, Node JS, MongoDB**
 
